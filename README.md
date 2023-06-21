@@ -20,6 +20,6 @@ Select "pinkflorisboardtheme.flex" (it should be in downloads)
 Click on import, Select the theme "Pink MD florisboard Theme."
 
 ### 
-_**#2 Manual setup method Might be added. BUT IT IS METHOD IS NOT RECOMMENDED, AS IT IS VERY TEDIOUS**_
+_**#2 Manual setup method Might be added. BUT IT IS NOT RECOMMENDED, AS IT IS VERY TEDIOUS**_
 
 
