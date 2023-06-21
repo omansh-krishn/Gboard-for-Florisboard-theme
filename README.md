@@ -1,9 +1,16 @@
-# Pink MD3 Florisboard Theme
-A pastel pink florisboard theme, made to look like Material You &amp; Gboard!
+# ♥️ Pink MD3 Florisboard Theme
+<h3> A pastel pink florisboard theme, made to look like Material You &amp; Gboard!</h3>
+<img src="https://github.com/TeaEndsAcronyms/Pink-MD3-Florisboard-Theme/assets/123305689/a0c73152-ca44-4363-8e3d-8dd18ea2e38e"alt="Keyboard_Preview" border="0" width="500"></a>
 
-## 🌞 Light mode is a work in progress!
 
-### #1 Automatic Setup method:
+
+
+
+<h3 align> 🌞 Light mode is a work in progress! </h3>
+
+---
+
+## #1 Automatic Setup method:
 
 Go to [releases and install the latest release](https://github.com/TeaEndsAcronyms/Pink-MD3-Florisboard-Theme/releases).
 <br>
