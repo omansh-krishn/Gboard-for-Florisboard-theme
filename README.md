@@ -1,4 +1,4 @@
-# ♥️ Gboard<sup>MD3</sup> for Florisboard.
+# ♥️ Pink Gboard<sup>MD3</sup> for Florisboard.
 <h3> A pastel pink florisboard theme, made to resemble Gboard!</h3>
 
 <details>
