@@ -18,6 +18,8 @@
 
 ---
 
+### 📝 TO LEARN HOW TO EDIT THE THEME [CLICK HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md)
+
 </details>
 
 ## ⏬ Download/Setup:
