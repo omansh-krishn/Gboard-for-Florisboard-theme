@@ -1,4 +1,4 @@
-# ♥️ Pink Gboard<sup>MD3</sup> for Florisboard.
+# 💕 Material you Gboard theme for Florisboard.
 <h3> A pastel pink florisboard theme, made to resemble Gboard!</h3>
 
 <details>
@@ -20,13 +20,19 @@
 
 </details>
 
-## 📝 TO LEARN HOW TO EDIT THE THEME [CLICK HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md)
+---
+### Version 1: 🎨 Dynamic, automatically changes colours based on your wallpaper.
+### _**DYNAMIC REQUIRES [THIS VERSION OF FLORISBOARD](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)**_
+
+### Version 2: ❤️ Pastel Pink, A pastel pink colour!
+
+---
 
 ## ⏬ Download/Setup:
 
 1. Go to [releases and install the latest release](https://github.com/TeaEndsAcronyms/Pink-MD3-Florisboard-Theme/releases).
 
-2. [Download & install florisboard](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard.beta)
+2. [Download & install florisboard](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)
 
 4. Open florisboard.
 
@@ -37,3 +43,7 @@
 7. Select the .flex file (it should be in downloads)
 
 8. You should see the new two themes!
+---
+
+## 📝 TO LEARN HOW TO EDIT THE THEME [CLICK HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md)
+---
