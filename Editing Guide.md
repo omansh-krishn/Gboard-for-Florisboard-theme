@@ -1,4 +1,4 @@
-## 📝 Editing:
+## 📝 Editing: (Only for the bordered version)
 This is an **OPTIONAL** guide to editing the look, changing the color, etc.
 
 - Primary Colour
