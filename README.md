@@ -1,5 +1,5 @@
 # 💕 Material you Gboard theme for Florisboard.
-<h3> A pastel pink florisboard theme, made to resemble Gboard!</h3>
+<h3> A pastel pink/Materialy you florisboard theme, made to resemble Gboard!</h3>
 
 <details>
 <summary><h2>🖼️ Screenshot</summary>
@@ -21,18 +21,22 @@
 </details>
 
 ---
-### Version 1: 🎨 Dynamic, automatically changes colours based on your wallpaper.
-### _**DYNAMIC REQUIRES [THIS VERSION OF FLORISBOARD](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)**_
+- ### Version 1: 🎨 Dynamic, automatically changes colours based on your wallpaper.
+  -  ### _**DYNAMIC REQUIRES [THIS VERSION OF FLORISBOARD](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)**_
+  - ### To Download Debug (For Dynamic installation): go to link, enable "Desktop mode" on your browser, Go to summary and click on "app-debug.apk" (You must be logged in)
 
-### Version 2: ❤️ Pastel Pink, A pastel pink colour!
+- ### Version 2: ❤️ Pastel Pink, A pastel pink colour!
 
 ---
 
-## ⏬ Download/Setup:
+## ✨ Download/Setup:
 
-1. Go to [releases and install the latest release](https://github.com/TeaEndsAcronyms/Pink-MD3-Florisboard-Theme/releases).
+1.  Download the release, Choose either Pastel Pink, or Material you/Dynamic
 
-2. [Download & install florisboard](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)
+
+2. 💗 Pastel Pink: [Download & install florisboard Beta](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard.beta)
+3. 🎨 Dynamic: [Download & install florisboard debug](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)
+- **To Download Debug (For Dynamic installation): go to link, enable "Desktop mode" on your browser, Go to summary and click on "app-debug.apk" (You must be logged in)**
 
 4. Open florisboard.
 
@@ -42,8 +46,10 @@
 
 7. Select the .flex file (it should be in downloads)
 
-8. You should see the new two themes!
+8. You should see the new four themes!
+
+9. Select either Dark, Light, Dark Borderless, or Light Borderless!
 ---
 
-## 📝 TO LEARN HOW TO EDIT THE THEME [CLICK HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md)
+## 📝 TO LEARN HOW TO EDIT THE THEME (Bordered) [CLICK HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md)
 ---
