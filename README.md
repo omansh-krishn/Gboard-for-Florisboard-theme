@@ -22,8 +22,7 @@
 
 ---
 - ### Version 1: 🎨 Dynamic, automatically changes colours based on your wallpaper.
-  -  ### _**DYNAMIC REQUIRES [THIS VERSION OF FLORISBOARD](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)**_
-  - ### To Download Debug (For Dynamic installation): go to link, enable "Desktop mode" on your browser, Go to summary and click on "app-debug.apk" (You must be logged in)
+  -  ### _**DYNAMIC REQUIRES [THIS VERSION OF FLORISBOARD](https://www.mediafire.com/file/pywec1eo0iqze0j/dev.patrickgold.florisboard.debug.apk/file).**_
 
 - ### Version 2: ❤️ Pastel Pink, A pastel pink colour!
 
@@ -35,8 +34,7 @@
 
 
 2. 💗 Pastel Pink: [Download & install florisboard Beta](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard.beta)
-3. 🎨 Dynamic: [Download & install florisboard debug](https://github.com/florisboard/florisboard/actions/runs/5039154715/job/13643367775?pr=2213)
-- **To Download Debug (For Dynamic installation): go to link, enable "Desktop mode" on your browser, Go to summary and click on "app-debug.apk" (You must be logged in)**
+3. 🎨 Dynamic: [Download & install florisboard debug](https://www.mediafire.com/file/pywec1eo0iqze0j/dev.patrickgold.florisboard.debug.apk/file)
 
 4. Open florisboard.
 
