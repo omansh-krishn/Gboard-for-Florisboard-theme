@@ -49,5 +49,5 @@
 9. Select either Dark, Light, Dark Borderless, or Light Borderless!
 ---
 
-## 📝 TO LEARN HOW TO EDIT THE THEME (Bordered) [CLICK HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md)
+## 📝 LEARN HOW TO EDIT THE THEMEv[HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md) (Bordered)
 ---
