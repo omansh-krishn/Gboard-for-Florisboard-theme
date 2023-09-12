@@ -1,4 +1,4 @@
-<h1 align="center"> 💕 MDY theme for Florisboard.</h1>
+<h1> 💕 MDY theme for Florisboard.</h1>
 <h4> A pastel pink/Material you florisboard theme, made to resemble Gboard!</h4>
 
 <details>
