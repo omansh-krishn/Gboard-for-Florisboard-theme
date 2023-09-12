@@ -2,7 +2,7 @@
 <h3> A pastel pink/Materialy you florisboard theme, made to resemble Gboard!</h3>
 
 <details>
-<summary><h2>🖼️ Screenshot</summary>
+<summary><b>🖼️ Screenshot</b></summary>
   
 </h2>
 
@@ -20,34 +20,25 @@
 
 </details>
 
----
-- ### Version 1: 🎨 Dynamic, automatically changes colours based on your wallpaper.
-  -  ### _**DYNAMIC REQUIRES [THIS VERSION OF FLORISBOARD](https://www.mediafire.com/file/pywec1eo0iqze0j/dev.patrickgold.florisboard.debug.apk/file).**_
-
-- ### Version 2: 🩷 Pastel Pink, A pastel pink colour!
-
----
-
 ## ✨ Download/Setup:
 
-1.  Download the release, Choose either Pastel Pink, or Material you/Dynamic
+- Choose either Pastel Pink, or Material you/Dynamic.
 
+  - 🩷 Pastel Pink: [Download & install florisboard Beta](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard.beta)
+  - 🎨 Dynamic: [Download & install florisboard debug](https://www.mediafire.com/file/pywec1eo0iqze0j/dev.patrickgold.florisboard.debug.apk/file)
 
-2. 🩷 Pastel Pink: [Download & install florisboard Beta](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard.beta)
-3. 🎨 Dynamic: [Download & install florisboard debug](https://www.mediafire.com/file/pywec1eo0iqze0j/dev.patrickgold.florisboard.debug.apk/file)
+- Open florisboard.
 
-4. Open florisboard.
+- Click on "Theme" --> "Manage installed themes"
 
-5. Click on "Theme" --> "Manage installed themes"
+- Click on "import" --> "select files"
 
-6. Click on "import" --> "select files"
+- Select the .flex file (it should be in the downloads folder)
 
-7. Select the .flex file (it should be in downloads)
+- You should see the new four themes!
 
-8. You should see the new four themes!
+- Select either Dark bordered/borderless or Light bordered/borderles!
 
-9. Select either Dark, Light, Dark Borderless, or Light Borderless!
 ---
-
 ## 📝 LEARN HOW TO EDIT THE THEME [HERE!](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme/blob/main/Editing%20Guide.md) (Bordered)
 ---
