@@ -24,8 +24,8 @@
 
 - Choose either Pastel Pink, or Material you/Dynamic.
 
-  - 🩷 Pastel Pink: [Download & install florisboard Beta](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard.beta)
-  - 🎨 Dynamic: [Download & install florisboard debug](https://www.mediafire.com/file/pywec1eo0iqze0j/dev.patrickgold.florisboard.debug.apk/file)
+  - 🩷 Pastel Pink: [Download & install florisboard **Beta**](https://apt.izzysoft.de/fdroid/index/apk/dev.patrickgold.florisboard.beta)
+  - 🎨 Dynamic: [Download & install florisboard **debug**](https://www.mediafire.com/file/pywec1eo0iqze0j/dev.patrickgold.florisboard.debug.apk/file)
 
 - Open florisboard.
 
