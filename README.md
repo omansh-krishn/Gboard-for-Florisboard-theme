@@ -1,5 +1,5 @@
-# 💕 Material you Gboard theme for Florisboard.
-<h3> A pastel pink/Materialy you florisboard theme, made to resemble Gboard!</h3>
+<h1 align="center"> 💕 MDY theme for Florisboard.</h1>
+<h4> A pastel pink/Material you florisboard theme, made to resemble Gboard!</h4>
 
 <details>
 <summary><b>🖼️ Screenshot</b></summary>
